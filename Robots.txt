@@ -1,0 +1,115 @@
+# robots.txt for biifund.com
+
+User-agent: *
+Disallow: /login
+Disallow: /staging
+Disallow: /customerportal
+Disallow: /admin/
+Disallow: /login/
+Disallow: /feed/
+Disallow: /signup/
+Disallow: /reset-password/
+Disallow: /website_leadform_thankyou/
+Disallow: /thankyou/
+Disallow: /comments/feed/
+Disallow: /archives/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+
+# Allow AI and research bots to access public content
+
+# Amazonbot
+User-agent: Amazonbot
+Allow: /
+
+# Anthropic-ai
+User-agent: Anthropic-ai
+Allow: /
+
+# Applebot-Extended
+User-agent: Applebot-Extended
+Allow: /
+
+# AwarioRssBot
+User-agent: AwarioRssBot
+Allow: /
+
+# AwarioSmartBot
+User-agent: AwarioSmartBot
+Allow: /
+
+# Bytespider
+User-agent: Bytespider
+Allow: /
+
+# CCBot
+User-agent: CCBot
+Allow: /
+
+# ChatGPT-User
+User-agent: ChatGPT-User
+Allow: /
+
+# ClaudeBot
+User-agent: ClaudeBot
+Allow: /
+
+# Claude-Web
+User-agent: Claude-Web
+Allow: /
+
+# Cohere-ai
+User-agent: Cohere-ai
+Allow: /
+
+# DataForSeoBot
+User-agent: DataForSeoBot
+Allow: /
+
+# FacebookBot
+User-agent: FacebookBot
+Allow: /
+
+# Google-Extended
+User-agent: Google-Extended
+Allow: /
+
+# GPTBot
+User-agent: GPTBot
+Allow: /
+
+# ImagesiftBot
+User-agent: ImagesiftBot
+Allow: /
+
+# Magpie-crawler
+User-agent: Magpie-crawler
+Allow: /
+
+# OAI-SearchBot
+User-agent: OAI-SearchBot
+Allow: /
+
+# Omgili
+User-agent: Omgili
+Allow: /
+
+# Omgilibot
+User-agent: Omgilibot
+Allow: /
+
+# Peer39_crawler
+User-agent: Peer39_crawler
+Allow: /
+
+# PerplexityBot
+User-agent: PerplexityBot
+Allow: /
+
+# YouBot
+User-agent: YouBot
+Allow: /
+
+Sitemap: https://www.biifund.com/sitemap.xml
+
+

@@ -1,0 +1,3042 @@
+.investment_data_num::after{
+    transition: all 0.8s ease;
+    transform: rotate(0deg);
+    transition: transform 0.7s linear;
+    animation: rotate 7s infinite linear;
+} 
+
+@media (min-width: 2000px){.partners_sec{height: 100vh;}}
+
+@media (min-width: 1800px){
+    .banner_outer{height: 100vh;}
+    .swiper-slide-prev .partner {transform: translateX(-200px) scale(0.6);}
+    .swiper-slide-next .partner {transform: translateX(-100px) scale(0.6);}
+    .our-team-detaisl{left: 250px;}
+  
+}
+@media (min-width: 1700px){
+    .banner_outer{height: 100vh;}
+    .team_outer_img{width: 396px;}
+}
+
+
+
+
+@media (min-width: 1500px){
+       
+    .part_inn_1{width: calc(700px - 30px);height: calc(700px - 30px);}
+     .eruditusvideo{width: 16rem;}
+     .licious {width: 26rem;}
+     .leftcircle{left: -9%;}
+     .topcircle{width: 700px;height: 700px;}
+     .abhayhanjura{transform: translate3d(-67.151px, -10.4369px, 0px) scale(0.5038, 0.503792);}
+     .lendingkart{transform: translate3d(283.913px, -171.861px, 0px) scale(0.4023, 0.501952);}
+     .ambareeshmurthy{transform: translate3d(385.492px, 99.5226px, 0px) scale(0.5019, 0.501872);}
+     .pepperfry{transform: translate3d(-59.0003px, 70.0004px, 0px) scale(0.4, 0.4);transition: all ease;}
+
+    .subscribe::after { right: -18%;}
+    /*.subscribe::before {top: -91%;left: -9%;}*/
+    .bannerhding{
+    transform: translateY(-50%);
+    }
+}
+
+@media (min-width: 1399px){
+    /*.team_outer_img{*/
+    /*    width: 450px;*/
+    /*}*/
+.other_investor {
+   max-width: 1320px;
+        margin: auto;
+        padding-left: 12px;
+        padding-right: 12px;
+}
+.team_mem_des::after {right: 22px;}
+}
+@media (min-width: 1500px) and (max-width: 1699px){
+   .team_outer_img{width: 390px;}
+}
+
+@media (min-width: 1399px) and (max-width: 1499px) {
+    
+     .team_outer_img{width: 376px;}
+    
+    .eruditusvideo{width: 16rem;}
+    .licious {width: 26rem;}
+    .part_inn_1{width: calc(630px - 30px);height: calc(630px - 30px);}
+    .leftcircle{left: -16%;}
+    .topcircle{width: 660px;
+    height: 660px;}
+    .rightcircle{transform: rotate(348deg);}
+    .ambareeshmurthy{transform: translate3d(281.492px, 59.5225px, 0px) scale(0.5019, 0.501872);}
+/*    .rightcircleform{overflow: hidden;}*/
+/*.rightcircleform svg{width: 100%;*/
+/*    height: 100%;*/
+/*    transform: scaleY(1.3);}*/
+
+}
+
+@media (max-width: 1199px) and (min-width: 1024px){
+   .investment_data_num_06 { width: 220px;height: 220px;} 
+   .investment_data_num_01 {width: 260px; height: 260px;top: 37px;left: 114px; }
+   .investment_data_num_03 {left: 33%;}
+   .investment_data_num_04 {top: 56%;left: 43%;width: 230px;height: 230px;}
+   .investment_data_num_05 {top: 20%;left: 57%;}
+   .investment_data_num_02 {top: 63%;right: 14%;}
+   .homediv{width: 1010px;margin: auto;}
+   .team_outer_img{width:286px;}
+   .team_mem_des::after {right: -3px;}
+   .socialshare a{margin-right: 9px;}
+   .other_investor {padding-left: 9%;}
+    .buildit {width: 230px;}
+    .podcastgillips_sec{padding: 20px;}
+.pcgillp_cont{padding-left: 20px;}
+.podcastgillips, .podwave {height: 498.21px;}
+.latestpodcastCont p br{display: none;}
+.latestpodcastCont {padding: 25px 60px 19px 19px;height: 278px;}
+.latestpodcastImg{height: 278px;}
+.latestpodcastCont h6 {font-size: 20px;}
+.footer_link4::after {right: -2px;}
+.podcastreadmore p{font-size: 14px;}
+.podcast-season12-inner .latestpodcastCont,.podcast-season12-inner .latestpodcastImg {height: 173px;}
+.extrapad .poddetail-h1,.extrapad .poddetail-h0 {height: 248px;}
+.poddetails-outer{padding-right: 50px;}
+.badminton_champ h5 {
+    font-size: 24px;
+}
+.coming_soon {
+   
+    font-size: 20px;
+}
+.coming_soon .com_1 {
+    right: 27px;
+    
+}
+}
+
+
+@media (max-width: 1024px){
+    
+    .banner_outer {width: 100%;}
+    .banner_inner_2 {width: 15rem;}
+    .leftcircle{left: -32%;}
+    .rightcircle{right: -19%;}
+    .topcircle {top: -310px;right: 14%;transform: rotate(16deg);}
+    .eruditusvideo{transform: translate3d(-78px, 40px, 0px) scale(0.6, 0.600001);}
+    .h1 {font-size: 50px;line-height: 50px;}
+    .lendingkart{transform: translate3d(146.912px, -191.86px, 0px) scale(0.4, 0.500002);}
+    .investment_data_num_01 {width: 250px;height: 250px;left: 123px;}
+    .investment_data_num_06 {width: 245px;height: 245px;}
+
+.number_data {font-size: 44px;line-height: 48px;}
+.investment_data_num_03 {top: 0%;left: 38%;}
+.investment_data_num_05 {top: 12%;left: 67%;}
+.investment_data_num_04 {width: 255px;height: 255px;top: 47%;left: 50%;}
+.investment_data_num_02 {top: 55%;right: -2%;}
+.portfolio_logo_2{padding: 90px 13px 25px;}
+.india_advisory_team_mem img {height: 430px;}
+.swiperbg {height: 309px;}
+.swiperbg1{top: 162px;}
+.footer_link4::after {right: -2px;}
+.subscribe p {padding: 0px 120px;}
+.footerlogo1 {margin-left: 18px;}
+/**/
+.relationship_deatils {width: 100%;}
+.relationship_data {padding: 10px 20px;}
+.investment_data {width: 100%;}
+.insights_hd{line-height: 17px;}
+.address_2::before {    left: -24px;}
+.address_2::after {    right: -17px;}
+/**/
+/*.team_memslider .swiper-button-prev, .team_memslider .swiper-button-next {*/
+/*    transform: translateY(15px);*/
+/*}*/
+
+/**/
+.ourstory_numbers {
+    width: 936px;
+    height: 371px;
+}
+.ourstroy_n {
+    
+    width: 260px;
+        height: 260px;
+}
+.ourstroy_n_2 {
+    left: 234px;
+}
+.ourstroy_n_3 {
+    top: 110px;
+    left: 446px;
+}
+.domainexpertsImg {width: 100%;}
+.latestblog_des{padding: 20px;}
+.bloglistImg {height: 46%;}
+/*.bloglistdd {*/
+/*    height: 54%;*/
+/*}*/
+.bloglist_data span {
+    
+    padding: 12px 0px;
+}
+.bloglist_data h6 {
+    font-size: 17px;
+   height: auto;
+}
+.blogbanner::before {
+    
+    top: -449px;
+}
+
+.event-mainlanding {
+    width: 500px;
+    height: 279px;
+}
+.bcc-event {
+    width: 160px;
+    height: 160px;
+    left: -180px;
+}
+.BertelsmannIndiaSummit2-event {
+    width: 159px;
+    height: 160px;
+    right: -169px;
+    top: 22px;
+}
+.VCMeetsBertelsmann2-event {
+    width: 136px;
+    height: 136px;
+    right: -122px;
+    top: 250px;
+}
+.eventmainbanner{
+   padding-bottom: 116px;
+}
+.techsparks-event {
+    left: -162px;
+    top: 224px;
+}
+.events_desc .knowmore {
+    margin-top: 25px;
+}
+.events_desc {
+    padding: 30px 24px;
+}
+.events_details2 .events_desc .knowmore {
+    margin-top: 0px;
+}
+.events_descp {
+    padding: 25px;
+}
+.eventspointer{
+    padding: 90px 40px 0px 0px;
+}
+.eventspointer2 {
+    padding: 90px 40px 0px 40px;
+}
+
+.eventspointer3 {
+    padding: 90px 0px 0px 40px;
+}
+.eventspasteditions {
+    width: 775px;
+}
+.pastedition_des {
+    font-size: 16px;
+}
+.subscribebii .eventspointer2 {
+    padding: 0px 15px 0px 15px;
+}
+.subscribebii .eventspointer4 {
+    padding: 65px 0px 0px 0px;
+}
+.subscribebii .eventspointer5 {
+    padding: 65px 25px 0px 25px;
+}
+.media_bg_img {
+    height: 466px;
+}
+/**/
+
+.podcastgillips_sec{
+    padding: 20px;
+}
+.pcgillp_cont{padding-left: 20px;}
+.pcgillp_hd {font-size: 14px;}
+.pcgillp_des li {font-size: 11px;}
+.podcastgillips, .podwave {height: 498.21px;}
+.latestpodcastCont p br{display: none;}
+.latestpodcastCont {
+    padding: 25px 60px 19px 19px;
+    height: 274px;
+}
+.latestpodcastCont h6 {
+    font-size: 20px;
+}
+.podcastreadmore p{
+    margin-bottom: 8px;
+}
+.writeforblog .modal-body {
+    display: block;
+   
+}
+.writeforblog .modal-dialog {
+    height: 95vh;
+    align-items: center;
+}
+.poddetail-data{
+    padding-right:40px;
+}
+.podcastdetails-des h3{width: 100%;}
+.badminton_champ h5 {font-size: 24px;}
+.coming_soon {font-size: 20px;}
+.coming_soon .com_1 {
+    right: 27px;
+    
+}
+}
+@media (max-width: 1024px) and (min-width: 991px){
+    .swiper-slide.swiper-slide-active .partner {transform: translateX(64px) scale(1);}
+    .portfolio_circle {height: 325px;width: 900px;}
+    .portfolio_circle_1 {
+    width: 325px;
+    height: 325px;
+}
+.fiter_box {width: 900px;}
+.fiter_box_search {width: 662px;}
+.fiter_box_search input {width: 636px;}
+.current_investment_data_1 {width: 900px;}
+
+.investor_d .para {width: 100%;}
+.podcast_person {padding: 25px 30px 20px 25px;}
+.podcast_person p {margin-top: 24px;}
+.other_investor {padding-left: 4.5%;}
+/*new*/
+
+
+}
+
+@media (min-width: 991px){
+    .navbartog:hover .navbar2{opacity:0;transform: translateX(-40px);}
+    .navbartog:hover .navbar1{ transform: rotate(45deg) translate(6px, 10px);}
+    .navbartog:hover .navbar3{transform: rotate(-45deg) translate(6px, -10px)}
+    .banner_outer{display: flex;flex-direction: column;align-items: center;justify-content: center;}
+    .portfolio_logo_2{opacity:0;height: 0%;}
+    .portfolio_link_1:hover .portfoilio_unicorn{opacity:1;}
+    .portfolio_link_1:hover .portfolio_logo_2{height: 100%;opacity:1;}
+    .portfolio_link_1:hover .portfolio_logo{transform: translateY(-100%);opacity:0;}
+    .navbar-expand-lg .navbar-nav .nav-link::after{content: "";position: absolute;right: 0;bottom: 0;width: 0;height: 1px;background-color: #F26558;transition: all 0.5s ease;}
+    .navbar-expand-lg .navbar-nav .nav-link:hover::after{width: 100%;right: auto;left: 0;}
+/**/
+.impression_des{opacity: 0;visibility: hidden;transform: translateY(50%);transition: all 0.5s ease;}
+.impressions a:hover .impression_des{opacity: 1;visibility: visible;transform: translateY(0px);}
+
+
+}
+
+@media(min-width: 767px){
+    .india_advisory_team .row .swiper-slide{
+        width: 33.33%;
+    }
+    .swiper-slide_i{
+        margin-top: 70px;
+    }
+    /*home*/
+.bert-compny-des{position: absolute;top: -100px;box-shadow: 0px 3px 3px #00000033;display: none;opacity:0;transition: all 0.3s ease-in-out;}
+.bert-compny-des img{margin-top: 4px;}
+.plogo1 .bert-compny-des,.plogo6 .bert-compny-des, .plogo7 .bert-compny-des{top:-90px;}  
+.box1 .groupcomp:hover ~ .bert-compny-des{opacity:1; display: flex;}
+}
+
+
+@media (max-width: 991px){
+    .biiheader{display: flex;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        z-index: 2;
+        background: #f1f3f7;
+        padding: 10.5px 0px;}
+    .h1 {font-size: 40px;line-height: 40px;margin-bottom: 40px;}
+    p{font-size: 16px;}
+    .banner_outer {padding-bottom: 56px;}
+   .bannerhding {transform: translateY(-230%);}
+    .company_emp_outer {padding: 12px;}
+    
+    .banner_inner {height: 559px;flex-wrap: wrap;}
+    .banner_inner_1 {width: 22rem;margin-bottom: 7px;}
+   
+    .abhayhanjura {width: 9em;margin-left: 0;margin-right: 7px;margin-top: 7px;height: 10em;
+    transform: translate3d(-32.9998px, -80.9997px, 0px) scale(0.5038, 0.503791);
+    }
+    .ashwindameera {width: 12em;
+    height: 10em;
+    margin-right: 0;
+    transform: translate3d(-20.7529px, -69.7379px, 0px) scale(0.5, 0.500001);
+    margin-bottom: 7px;}
+    .topcircle{width: 510px;
+    height: 510px;top: -303px;
+    right: 9%;}
+    .leftcircle {
+    left: -47%;
+    transform: rotate(358deg);
+    
+}
+    .rightcircle {
+    right: -45%;
+}
+.lendingkart{transform: translate3d(0px, -183px, 0px) scale(0.5, 0.5);}
+.pepperfry{transform: translate3d(40px, -200px, 0px) scale(0.4, 0.4);}
+.ambareeshmurthy{transform: translate3d(200.492px, -11.4774px, 0px) scale(0.5019, 0.501872);}
+    .licious{order: 4;
+    width: 21.5rem;
+    margin-top: 7px;
+    margin-right: 0;
+    margin-bottom: 0;
+   transform: translate3d(84.999px, -92.1117px, 0px) scale(0.5019, 0.501871);
+    }
+    .eruditusvideo{transform: translate3d(-45.9999px, -84.0001px, 0px) scale(0.5, 0.500001);}
+    .number_data {font-size: 30px;line-height: 30px;}
+    .investment_data_num_01 {width: 205px;height: 205px;top: -11px;
+        left: 73px;
+    }
+    .investment_data_num_1 {width: 205px;height: 205px;}
+    .investment_data_num_02 {width: 155px;height: 155px;}
+    .investment_data_num_03 {width: 194px;
+        height: 194px;
+        top: 5%;
+        left: 38%;}
+    .investment_data_num_04 {width: 160px;height: 160px;top: 54%;
+        left: 56%;}
+    .investment_data_num_05 {width: 200px;height: 200px;top: 1%;
+        left: 67%;}
+        .investment_data_num_06 {
+        width: 180px;
+        height: 180px;
+    }
+    
+    .banner_inner2{height: 310px;flex-wrap: nowrap;}
+    .pepperfry {width: 20rem; margin: 7px 7px 0px 0px;}
+    .ambareeshmurthy {width: 9em;height: 10em;}
+    .leftcircle{left: -27%;bottom: 67px;}
+    .rightcircle {right: -29%;bottom: 78px}
+
+    .lendingkart{width: 20rem; margin: 7px 0px 0px 7px;}
+    
+    .investment_data {
+  
+    height: 289px;
+}
+.company_emp_outer .mb-0 {
+   margin-top: 22px;
+    font-size: 12px;
+    width: 310px;
+}
+
+    .ambareeshmurthy .mb-0 {width: 239px;}
+    .part_inn_2 p {
+    padding: 0px 65px;
+    font-size: 16px;
+}
+.part_inn_1 {
+    width: 600px;
+    height: 600px;
+}
+    .part_logo {
+    padding: 0px 100px;
+}
+
+.work_data_num p {
+    padding: unset;
+}
+.part_logo01 {
+    margin-top: 4px;
+}
+.work_data_num {
+    font-size: 30px;
+}
+.work_data_num1 {
+    padding: 0px 10px 10px 0px;
+}
+
+.work_data_num2 {
+    padding: 0px 0px 10px 10px;
+}
+.bgbert{
+    opacity: 1;
+}
+.work_data_num3 {
+    
+    padding: 10px 0px 0px 0px;
+}
+
+.part_inn_2 .h1{font-size: 40px;line-height: 40px;transform: translateY(0%);}
+.partbertelsman {
+    
+    opacity: 1;
+    transform: translateY(0px);
+    
+}
+
+    .portfolio_logo img {width: 140px;}
+    .relationship_data {padding: 10px;}
+    .relationship_data p {font-size: 12px;padding-right: 10px;}
+    .button {    width: 35px;    height: 35px;    }
+    .button .qube .front, .button .qube .back {line-height: 34px;padding-right: 0px;}
+    
+    .pad120 {padding: 58px 0px;}
+    .padt120 {padding-top: 58px;}
+    .padb120 {padding-bottom: 58px;}
+    .relationship {width: 100%;}
+    .about_growth {width: 100%;}
+    
+    .sld-wrp {height: 55vh;}
+    
+    .sld-wrp .sliderbg {
+    width: 100%;
+     margin: 0; 
+     border-left: none; 
+   
+}
+.investment_details {
+    width: auto;
+    
+}
+    
+    .insights_details_1{padding: 10px 10px 13px;}
+    .insights_hd {line-height: 14px;font-size: 14px;color:rgb(0 45 102);}
+    
+    .insightes2{height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;}
+    .insightes2>div{flex-grow:1;}
+    .insign_img img{height: 100%;object-fit: cover;}
+    .button_loadmore {margin-top: 40px;}
+    .relationship_deatils {margin: 40px auto 0px;}
+    
+    .subscribe_form{width:550px;margin-top:24px;}
+    
+    .footer_contact2 {margin-top: 10px;}
+    .footer {padding: 50px 2px 25px;}
+    .insights_details_img img {
+    object-fit: cover;
+}
+
+.navbartog {
+  height: 17px;
+    transform: rotate(179deg);
+    width: 30px;
+    display: flex;
+    z-index:1;
+}
+.navbar1, .navbar3 {
+    width: 22px;
+    height: 1px;
+}
+.navbar2 {
+    width: 30px;
+    height: 1px
+}
+.main-tool-bar{
+    padding:0px;
+}
+.navbar-brand {
+    margin-left: 0;
+    /*position: relative;*/
+    /*z-index:1;*/
+}
+#navbarSupportedContent{
+    position: fixed;
+    top: -105vh;
+    left: 0;
+    width: 100%;
+    height: 100vh !important;
+    height: auto;
+    padding: 4rem 0 3rem;
+    overflow: hidden;
+    background-color: #F1F3F7;
+    transition: all 0.4s ease-in-out;
+}
+#navbarSupportedContent.menu{
+    top: 0vh;
+}
+.navbartog.is-active .navbar1 {transform: rotate(45deg) translate(4px, 7px);}
+.navbartog.is-active .navbar3 {transform: rotate(-45deg) translate(4px, -8px);}
+.navbartog.is-active .navbar2{opacity:0;transform: translateX(-40px);}
+.subscribe::before {
+        top: -192%;
+        left: -51%;
+    }
+.subscribe::after {
+        right: -75%;
+        top: -115%;
+    }
+.swiperbginner{width: 34%;}
+    .swiperbg {
+        width: 100%;
+        padding: 0;
+    }
+    .swiperbg {
+        height: 232px;
+    }
+    .swiperbg1 {
+        top: 111px;
+    }
+    .india_advisory_team .row .swiper-slide {
+    margin-top: 22px;
+}
+.swiper-slide-prev .partner {transform: translateX(-15px) scale(0.6);}
+.swiper-slide-next .partner {transform: translateX(-50px) scale(0.6);}
+.swiper-button-prev {left: 60px;}
+.swiper-button-next {right: 60px;}
+
+/**/
+.portfolio_circle {height: 231px;width: 665px;}
+    .portfolio_circle_1 {
+    width: 231px;
+    height: 231px;
+    padding: 20px;
+}
+.fiter_box {width: 665px;}
+.fiter_box_search {width: 440px;height: 60px;}
+.fiter_box_search input {width: 420px; height: 42px;}
+.current_investment_data_1 {width: 665px;}
+.fiter_box_btn {height: 60px;}
+.fiter_box_btn button {
+    height: 42px;
+}
+.portfolio_circle_data p{
+    font-size: 14px;
+}
+.portfolio_circle_data h5 {
+    margin-bottom: 12px;
+}
+.extrapad {
+    padding-top: 125px;
+}
+.investor_img{
+    padding: 17px;
+}
+.investor_data {
+    padding-left: 10px;
+}
+.investorsec_detail {
+    
+    font-size: 15px;
+}
+.show_more_investor {
+    margin-top: 40px;
+}
+.subscribe {padding: 40px 0px;}
+.investor_d .para {font-size: 28px;width: 100%;}
+.hd_1 {margin-top: 58px;}
+.podcast_person {padding: 25px;height: 324px;}
+.podcast_person div img{width: 120px;}
+.podcast_person p {margin-top: 15px;}
+.podcast_video {height: 324px;}
+.invet_mem_review {margin-top: 42px;}
+.invet_update {margin-top: 58px;}
+.invet_data {padding: 20px;}
+.invest_up_hd {font-size: 16px;}
+.right_arr_invest {margin-top: 24px;}
+.other_investor {padding-left: 5%;}
+.other_invest_link {bottom: 14px; padding: 0px 14px;}
+.investor_details {border-radius: 25px 25px 0px 0px;width: 370px;}
+.funding_round {font-size: 14px; line-height: 14px;}
+.founded_year div span {font-size: 14px; line-height: 14px;}
+.sectors span p {
+    margin-top: 14px;
+    line-height: 14px;
+}
+
+
+/**/
+.bailinks {padding-left: 0;}
+.quicklink {padding-left: 25px;}
+.footer_link {padding: 40px 0px 20px;}
+.footer_link4, .footer_link5{padding: 25px 0px;}
+.footer_link p {font-size: 12px;}
+.footer {padding: 40px 0px 25px;}
+.ftrline::after {left: -10px;}
+.ftrline .row::after {left: -10px;top: 44px;width: 108%;}
+.footerlogo1 img, .footerlogo2 img{width: 90px;}
+.footer_head {font-size: 23px;}
+.footer_link4::after {right: -8px;bottom: -2px;
+    height: 100%}
+.subscribe p {padding: 0px 90px;}
+.events_data h5 {
+    height: 96px;
+}
+.badminton_champ h5 {font-size: 18px;}
+.events_top {
+    margin-top: 35px;
+}
+.bad_camp .badminton_champ .coming_soon {
+    font-size: 16px;
+    margin-top: 8px;
+    display: inline-flex;
+}
+.bad_camp .badminton_champ {
+    padding: 25px 30px;
+}
+.bad_camp .badminton_champ .coming_soon .com_1 {
+   width: 8px;
+        right: unset;
+        position: static;
+        display: inline-block;
+        height: auto;
+        margin-left: 3px;
+}
+.bad_camp .badminton_champ .coming_soon .com_2 {
+    position: static;
+        height: auto;
+        margin-left: 3px;
+}
+.date{
+    line-height: 12px;
+    display: block;
+}
+.cham_pod {margin: 40px 0px 0px;}
+.builditup_audio_1{margin-top: 24px;}
+.buidtop{margin-top: 35px;}
+.cultivating_hd {width: 100%;}
+.cultivation_sec {padding: 40px 30px;}
+.india_advisory_team_mem img {height: 320px;}
+.portfolio_link_1>img{
+    height: 560px;
+    object-fit: cover;
+        object-position: top;
+}
+ .portfolio_logo_2{
+    background: linear-gradient(to top, #00000075 60%, transparent);
+    height: 100%;
+    justify-content: end;
+}
+.portfoilio_unicorn {
+    opacity: 1;
+}
+.portfolio_logo{
+    display: none;
+}
+.portfolio_inv_data{
+    width: 50%;
+    margin: 50px auto 15px;
+}
+.part_inner{
+    flex-direction: column;
+    height: auto;
+}
+.item_one , .part_2{
+    position: static;
+    height: auto;
+    width: 100%;
+    padding: 40px 0px;
+    border-radius: 20px;
+}
+.part_inn_2 .h1.bertelsman {
+    font-size: 40px;
+    line-height: 40px;
+}
+.navbar-nav{
+    align-items: flex-start;
+}
+.navbar-expand-lg .navbar-nav .nav-item{
+    margin-left: 0;
+    padding: 10px 27px;
+    border-top: 1px solid #00000021;
+    width: 100%;
+    position: relative;
+}
+.fa-sort-down {
+    position: static;
+    margin-left: 10px;
+}
+.dropdown {
+    top: 28px;
+    left: 100px;
+}
+.navbar-expand-lg .navbar-nav .nav-link.pitch{display: inline-block;}
+.insights_des {font-size: 14px;}
+/*contact*/
+.contact_page {padding-top: 145px;}
+.contact_page .ctop {margin-top: 58px;}
+.address_1 p br{display: none;}
+.address_1 h5,.address_1 p {font-size: 16px;}
+.address_1 a{display: block; font-size: 16px;}
+.address_2::before {left: -13px;}
+.address_2::after {right: -12px;}
+/*team*/
+.team_main {padding-bottom: 120px;}
+
+/**/
+
+.team_mem_more p {font-size: 24px;}
+.tm_btm {padding-bottom: 58px;}
+.team-detail-main::before {height: 429px;}
+.tm_top {
+    padding-top: 58px;
+}
+.team-detail-main .col-md-8 {
+    padding-left: 32px;
+}
+.former_work {
+    margin-top: 58px;
+}
+.former_work h5 {
+    font-size: 24px;
+}
+.team_mem_des {
+    margin-top: 28px;
+}
+.education_qual {
+    margin-top: 25px;
+}
+.subscribe .h1 {
+    font-size: 40px;
+}
+.extrapad2 {
+    padding-top: 67px;
+}
+.team_outer_img {
+    top: 61px;
+    height: calc(100% - 61px);
+    width: 227px;
+}
+
+
+/**/
+
+.ourstroy_video video {
+    height: auto;
+}
+.ourstory_body .para {
+    width: 100%;
+    
+}
+.ourstory_body {
+    padding: 50px 0px;
+}
+.ourstory_numbers {
+        width: 695px;
+        height: 316px;
+        margin: 50px auto;
+    }
+.ourstroy_n {
+        width: 205px;
+        height: 205px;
+    }
+        .ourstroy_n_2 {
+        left: 180px;
+    }
+    .ourstroy_n_3 {
+        top: 110px;
+        left: 327px;
+    }
+    .ourstroy_n_inner h5 {
+    font-size: 32px;
+    }
+    .our_story_partners_inner {
+    
+    height: 180px;
+    }
+    .ourstorypartlogo{
+        padding: 20px;
+    }
+    .domainexpertsImg img {height: 350px;}
+    .ourstory_dropdown .accordion-button {padding: 24px 0;font-size: 24px;}
+    
+    .impact_make {
+    flex-wrap: unset;
+    max-width: 100%;
+    margin: unset;
+}
+.impact_make .impact_make_1 {
+    height: auto;
+}
+.impacttitle {
+    visibility: visible;
+    height: auto;
+}
+.impacttitle h6 {
+    font-size: 18px;
+}
+.impact_make_1.swiper-slide-active .impactvideo_1{
+    filter: brightness(1);
+}
+/**/
+.latestblog_hd {
+    font-size: 24px;
+    margin: 15px 0px 25px;
+}
+.latestbloglist {
+    height: 380px;
+}
+/*.bloglist_data {*/
+/*    display: block;*/
+/*}*/
+.bloglistImg {
+        height: 200px;
+    }
+    /*.bloglistdd {*/
+    /*    height: auto;*/
+    /*}*/
+    .blogaside h6 {
+    padding: 15px 20px;
+    }
+    .blogaside .blogaside_inner a{
+        padding: 10px 20px;
+    }
+    .blogaside .blogaside_inner {
+    padding: 10px 0px;
+}
+.blogasidebottom{
+    padding:20px;
+}
+.blogbanner::before {
+        top: -467px;
+        left: -399px;
+    }
+    
+    /*blog detail*/
+    .blogasidesocial{
+        padding: 20px;
+    }
+    .socialshare a {
+    width: 26px;
+    height: 26px;
+    margin-right: 5px;
+}
+.socialshare a i {
+    
+    font-size: 14px;
+}
+.bloglistPara {
+    padding-right: 20px;
+}
+.bloglistPara p {
+    margin-bottom: 30px;
+}
+.colon img {
+    width: 48px;
+    height: 30px;
+}
+.commentblog {
+    margin-top: 18px;
+    padding-right: 30px;
+}
+.bloglistpost {
+    margin-bottom: 0px;
+}
+.comment_inner_data {
+    padding: 20px 0px;
+}
+.comment_data {
+    margin: 45px 30px 0px 0px;
+}
+.commentpersonImg {
+        font-size: 12px;
+}
+.commentpersonData {
+    padding-left: 15px;
+}
+.commentshowmore .show_more_investor {
+        margin-top: 30px;
+    }
+    .relatedpost .bloglistpost{
+        margin-bottom: 30px;
+    }
+    .writeforuse {
+   
+    background-size: contain;
+}
+
+/**/
+
+.event-mainlanding {
+        width: 400px;
+        height: 223px;
+        margin: 60px auto 0px;
+    }
+    .bcc-event {
+        width: 115px;
+        height: 115px;
+        left: -61px;
+        top: -60px;
+    }
+    .techsparks-event {
+        left: -48px;
+        top: 157px;
+        width: 110px;
+    }
+    .event-mainlanding img {
+    transform: translate3d(-10px, -12px, 0px);
+}
+.BertelsmannIndiaSummit2-event {
+        width: 125px;
+        height: 125px;
+        right: -60px;
+        top: 17px;
+    }
+    .VCMeetsBertelsmann2-event {
+        width: 109px;
+        height: 109px;
+        right: -37px;
+        top: 188px;
+    }
+    .eventsbanner_main {
+    padding-bottom: 74px;
+}
+    .eventmainbanner {
+        padding-bottom: 58px;
+    }
+    .events_desc {
+    height: 383px;
+    }
+    .events_img {
+    height: 383px;
+    }
+    .events_images img {
+    height: 170px;
+    }
+    .globalnetworkimg{
+        width: 100%;
+    }
+    .pos_usa {
+    left: -14px;
+    }
+    .pos_brazil {
+    left: 115px;
+    }
+    .pos_euro {
+    left: 246px;
+    }
+    .pos_india {
+    left: 365px;
+    top: 284px;
+    height: 91px;
+    }
+    .pos_india .hover_pos{
+        width: 31px;
+    height: 31px;
+    }
+   .pos_china{
+       width: 168px;
+   }
+   .pos_china .pos_inner {
+    width: 123px;
+   }
+   .pos_china .hover_pos {
+    
+    width: 35px;
+   }
+   .eventspointer{
+    padding: 58px 0px 0px 0px;
+}
+.eventspointer2 {
+    padding: 58px 0px 0px 0px;
+}
+.eventspointer3{
+     padding: 58px 0px 0px 0px;
+}
+.eventspasteditions .ourstroy_n {
+    width: 188px;
+    height: 188px;
+}
+.eventspasteditions{
+    width: 628px;
+    height: 299px;
+}
+.eventspasteditions .ourstroy_n_2 {
+    left: 162px;
+}
+.eventspasteditions .ourstroy_n_3 {
+    left: 289px;
+}
+.pastedition_des {
+    font-size: 16px;
+    padding: 20px 0px;
+}
+.mediaco {
+    
+    height: 224px;
+}
+.mediaco img{
+    height: 100%;
+    object-fit: cover;
+}
+.mediaco_cont h5{
+    width: 70%;
+}
+.buildingit_up {
+    height: auto;
+}
+.subscribebii .eventspointer {
+    padding: 0px;
+}
+.subscribebii .eventspointer2 {
+        padding: 0px;
+    }
+    .subscribebii .eventspointer3 {
+    padding: 0px;
+}
+.subscribebii .eventspointer4 {
+        padding: 40px 0px 0px 0px;
+    }
+    .subscribebii .eventspointer5 {
+        padding: 40px 0px 0px 0px;
+    }
+    .media_tab .row .col-md-4 {
+    margin-bottom: 35px;
+}
+
+.portfolio_inv_data p{
+    color: #fff;
+}
+.portfolio_inv_data .date_in{
+        color: #ffffff9e;
+
+}
+ .swiper-container-port .swiper-slide::after{
+        content: none;
+    }
+    .button {
+        border: 1px solid #ffffff;
+        color: #ffffff;
+    }
+    
+    /**/
+    
+    .poadcast_labs p {width: auto;max-width: 720px;margin: 0 auto 40px;}
+    .podComing h5 {font-size: 35px;width: 320px;}
+    .podComing h5 sup {top: -20px;font-size: 16px;}
+    .podComing .comingsoon_outer {width: 320px;}
+    .podComing .coming_soon {font-size: 24px;}
+.podComing .coming_soon {width: 195px;}
+.podcastgillips_sec {
+       
+        position: relative;
+        padding-bottom: 48px;
+    }
+    .pcgillp_hd {
+        margin: 0;
+    }
+    .pcgillp_des {position: absolute;bottom: 20px;left: 21px;}
+    .pcgillp_des li {padding-right: 20px;}
+    .podcastgillips, .podwave {height: 100%;}
+    .podwave h5{font-size: 40px;}
+    .podcast-video-series .swiper-container.podcastslider {height: 100%;}
+    .podcast-video-series .swiper-container.slider-thumbnail {
+    width: 100%;
+    left: 0;
+    padding: 0px 40px;
+}
+.podthumb{
+    width: 100%;
+    padding: 8px;
+    height: auto;
+    flex-direction: column;
+}
+.podthmtxt span {
+    font-size: 12px;
+}
+.latestpodcastCont {
+        height: 100%;
+    }
+    .latestpodcastImg img{
+        height: 100%;
+    object-fit: cover;
+    }
+    .latestpodcastCont h6 {
+        font-size: 18px;
+    }
+    .newpodcast {
+    
+    right: -41px;
+    top: 24px;
+    }
+    .latestpodcastImg {
+    height: 282px;
+}
+.podcastseries {
+    padding-top: 58px;
+}
+.podcast-season12-inner {
+    width: 600px;
+   
+    padding: 40px 0px;
+}
+.podcast-season12-inner .latestpodcastCont {
+    padding: 0px 0px 0px 25px;
+  height: 167px;
+}
+.podcast-season12-inner .latestpodcastImg {
+    height: 167px;
+}
+.podcast-episode{
+    font-size: 40px
+}
+.suscribe-social {
+    width: 500px;
+}
+.showmorepodcast {
+    padding-top: 50px;
+  
+}
+.media-aside:nth-child(2) {
+    margin-top: 24px;
+}
+.show_more_btn_n {
+    margin-top: 50px;
+}
+.bloglist_data h6,.bloglist_data p{padding-right:0;}
+.press_tab .col-lg-4 {
+    width: 31.8%;
+}
+.press_tab .row {
+    gap: 1rem;
+}
+.press_release_data span{
+    padding-bottom:0px;
+}
+#podcastmodal .modal-dialog{
+    width: 85vw;
+}
+#podcastmodal.modal .modal-dialog{
+    right: -85vw;
+}
+.writeforblog .modal-body {
+    display: block;
+    
+}
+.writeforblog .modal-dialog {
+    height: auto;
+    align-items: center;
+    margin: 5px;
+}
+.writeforblog {
+    overflow-y: scroll;
+}
+.pro-cont {
+    padding-top: 125px;
+}
+.ourspeakerName span {
+    
+    margin-top: 3px;
+}
+.ourspeakerName{
+    width: 95%;
+    padding: 9px;
+    bottom: 10px;
+}
+.ourspeakerName p {
+    font-size: 16px;
+}
+.ourspeakerbtn {
+    margin-top: 95px;
+}
+.impressionsbtn {
+    margin-top: 30px;
+}
+.pr_show, .news_show {
+    margin-top: 20px;
+}
+/**/
+.timetable-scedule{
+    width: 220px;
+}
+.timetable-agenda {
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+/**/
+.poddetailsouter{
+    position: static;
+        margin-top: 45px;
+        width: 100vw;
+        height: auto;
+        background: transparent;
+        padding: 0px 28px;
+}
+.poddetail-side{width: 100%;display: flex;
+        flex-direction: row;flex-wrap: nowrap;overflow-y: hidden;
+        overflow-x: scroll;background: transparent; padding:0px 0px 10px 0px; }
+        
+        
+
+    .poddetail-side::-webkit-scrollbar {
+        height: 6px; 
+    }
+    
+        
+.poddetail-side a {
+        margin-right: 6px;
+        background: transparent;   
+        border-radius: 12px;
+        display: inline-block;
+    }
+    .poddetail-side a img {
+    
+    width: 210px !important;
+}
+    
+    .extrapad .poddetail-h1 {height: 226px;padding: 30px;}
+    .extrapad .poddetail-h0 {height: 226px;}
+    
+    /**/
+    .impression_des{
+        position: static;
+        padding: 12px;
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width: 767px){
+    .poddetailsouter{padding: 0px 20px;}
+    .teamlinked{margin:20px auto 0;}
+    .navbar-expand-lg .navbar-nav .nav-item{padding: 10px 20px;}
+    /**/
+    .credits_text{ min-height:auto;}
+    .credits_text p{ margin:0;}
+    .insights_hd {line-height: normal;font-size: 16px;color:rgb(0 45 102);}
+    .company_emp_outer .mb-0 {font-size: 14px;}
+   
+    .container{max-width: 95%;}
+    .banner_inner {justify-content: flex-start;}
+    /**/
+    .bannerhding {transform: translateY(0);top: 19%;}
+    .banner_outer{padding-top: 86px;}
+   /*.ourteam_member .swiper-slide.swiper-slide-active .our-team-detaisl{top:0px;}*/
+    .topcircle {top: -24%;
+    right: -45%;}
+    .eruditusvideo{transform: translate3d(-81.9994px, -46.9996px, 0px) scale(0.5, 0.5);margin: 0px 0px 7px 0px;width: 100%;}
+    .company_emp_outer .mb-0 {width: 100%;letter-spacing: normal;}
+    .ashwindameera{
+        transform: translate3d(0px, 0px, 0px) scale(1);
+        margin:7px 0px;
+        width: 100vw;
+        height: 283px;
+    }
+    .licious{transform: translate3d(91.9982px, -22.1097px, 0px) scale(0.5019, 0.5019); margin: 7px 0px; order: 3;width: 100%;}
+   
+
+.abhayhanjura{margin: 7px 0px;order:4;}
+.abhayhanjura{transform: translate3d(0px, 0px, 0px) scale(1);width: 100vw;
+        height: 283px;}
+
+
+.banner_inner2 {
+    margin-top: 0;
+}
+
+.pepperfry{
+    margin: 7px 0px;
+}
+.lendingkart{
+     margin: 7px 0px;
+}
+.ambareeshmurthy {
+    margin: 7px 0px;
+}
+.banner_inner_1{
+    width: 100%;
+    height: 180px;
+}
+.banner_inner_1 video{width: 100%;object-fit: cover;}
+    /**/
+    .banner_inner {
+    height: auto;
+    flex-wrap: wrap;
+}
+   .banner_inner2 {
+    height: auto;
+}
+    .banner_outer {
+    padding-bottom: 45px;
+}
+.homediv{
+    height: 1790px;
+}
+
+    /**/
+    .portfolio_outer{background: #f1f3f7;}
+    .relationship_data p {font-size: 13px;width: 85%;}
+    .swiper-container-port{position: relative;}
+    .swiper-container-port .swiper-slide {height: 560px; border-radius: 12px;
+    display: block;transition: all 1s ease-in-out 0.3s;transform: scale(1);width: 90vw}
+    .swiper-container-port .swiper-slide {transform: scale(1);transition: all 1s ease-in-out 0.3s;}
+    
+
+    .insights_details_1 {
+   padding: 17px 25px 26px;
+}
+.insights_details {
+   
+    flex-direction: column;
+}
+.insights_details .insights_details_img,.insights_details .insights_details_1 {
+    width: 100%;
+}
+.insights_details_img {
+    height: 353px;
+}
+/*.our-team-detaisl .button_loadmore {*/
+/*    margin-top: 25px;*/
+/*}*/
+    /**/
+/*    .swiper-slide-next .teammemberimg {*/
+/*    right: unset;*/
+/*}*/
+/*.our-team-detaisl {left: 12px;}*/
+/*.swiper-slide-prev .teammemberimg {*/
+/*    right: unset;*/
+/*}*/
+.sld-wrp .sliderbg {
+    width: 100%;
+  
+}
+/*.ourteam_member .swiper-slide {*/
+/*    height: 300px;*/
+/*    margin-top: 60px;*/
+/*}*/
+.work_data {
+    border-bottom: 1px solid #B9BABB;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.work_data_num1 {
+    padding: 0px 0px 20px 0px;
+    border: 0;
+    border-bottom: 1px solid #B9BABB;
+}
+.work_data_num2 {
+    padding: 20px 0px;
+}
+.work_data_num {
+    font-size: 40px;
+    line-height: 40px;
+    width: 100%;
+}
+.work_data_num3 {
+    padding: 35px 0px 0px 0px;
+    flex-direction: column;
+}
+.part_inn_2 p br{
+    display: none;
+}
+
+.sld-wrp {
+   display: none;
+}
+.ourpeople_sec .investment_committee_img{height: 380px;}
+    .tab-content {margin-top: 40px;}
+    .ourpeople_sec .button_loadmore {margin-bottom: 40px; margin-top: 110px;}
+    .our-team-detaisl .button_loadmore{display: none;}
+    .our-team-detaisl p{display: none;}
+    .our-team-detaisl {
+    transform: translateY(10px);
+    width: 100%;
+    top: unset;
+    left: 0;
+    right:0;
+    margin: auto;
+    z-index: 9;
+    bottom: -80px;
+    }
+    .myswiper {height: 400px;}
+    .partner{text-align: center;}
+    .swiper-slide-prev .partner{transform:translateX(30px) scale(0.8);}
+    .swiper-slide-next .partner{transform:translateX(-30px) scale(0.8);}
+    .partner img{width: 100%;height: 100%;object-fit: contain;}
+    .swiperbg {height: 150px;}
+    .swiperbginner {
+    width: 65%;
+    height: 245px;
+    border-top: 1px solid rgb(114 114 114 / 20%);
+    margin: auto;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+}
+.our-team-detaisl h5 {font-size: 18px;text-align: center;width: 100%;}
+.our-team-detaisl .position_des {font-size: 14px;display: block;text-align: center;width: 100%;}
+
+.swiper-button-prev, .swiper-button-next{width: 35px;height: 35px;background: #fff;transform: translateY(24px); display: flex;}
+
+
+.relationship_deatils_1 {width: 100%;}
+.relationship{padding:0px 8px;}
+.relationship_deatils_01{padding: 10px;}
+.relationship_deatils .d-flex {
+    flex-direction: column-reverse;
+}
+.relationship_deatils_02{height: 300px;}
+    /**/
+    .button_loadmore {margin-top: 40px;}
+    .footer_bottom_link{padding:0;position: relative;}
+    .footer_bottom_link::after{content: "";
+    background: #000;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 31px;}
+    .showmore{font-size: 12px;}
+    
+    
+    .knowmore{margin-top:12px;}
+    .swiper-button-prev {left: 4%;}
+    .swiper-button-next {right:4%;}
+    
+    /**/
+    .h1 {font-size: 30px;line-height: 30px;margin-bottom: 30px;}
+    .relationship_deatils {margin: 30px auto 0px;}
+    .subscribe_form {width: 100%;border-radius: 100px;}
+    .subscribe_form .form-control {padding: 8px 23px 12px;}
+    .subscribe_form button {width: 65px;}
+    .pad120 {padding: 45px 0px;}
+    .footer {padding: 45px 2px 25px;text-align: center;}
+    
+    /*footer*/
+    footer .container .row{flex-wrap: wrap;}
+    .footer2{width: 100%; border:0;align-items: center;}
+    .footer p{margin-top: 25px;}
+    .footer_link1{width: 45%;padding: 0;border-top: 2px solid #E1E1E1;border-bottom:2px solid #E1E1E1;}
+    .footer_link2 {padding-right:0;width: 55%;border-top: 2px solid #E1E1E1;border-right: 0;border-bottom: 2px solid #E1E1E1;}
+    .footer_link3 {width: 100%;padding: 0;border-right: 0;text-align: center;}
+    .footer_link3 .footer{flex-direction: row;flex-wrap: wrap;justify-content: center;}
+    .footer h5{width: 100%;}
+    .footer_link3 .footer span {display: inline-block;width: 30px;margin: 10px 7px 0px;}
+    .footer_contact2 {margin-top: 0px;}
+    .footer_link .footer{padding: 25px 0px;}
+    .footer_bottom_link ul li {margin-right: 0px;}
+    .footer_bottom_link ul {margin-bottom: 0;padding-left: 0;justify-content: space-between;margin-top:5px;}
+    .footer_bottom_link span {justify-content: center;
+    margin-top: 0px;
+    background: #000;
+    color: #fff;
+    padding: 7px 0px;z-index: 1;
+    position: relative;}
+    .relationship_deatils_2 .startupimg{background: #f79a15;
+    border-radius: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: center;}
+    .bannerhding .h1{width: 270px;
+    margin: auto;
+    font-size: 35px;
+    line-height: 35px;}
+    .bannerhding .h1 br{display: none;}
+    .pepperfry{transform: translate3d(-65.0001px, -269.9998px, 0px) scale(0.4, 0.400001);}
+    .ambareeshmurthy{transform: translate3d(0px, 0px, 0px) scale(1);  width: 100vw;
+        height: 283px;}
+    .lendingkart{transform: translate3d(-104.089px, -480.859px, 0px) scale(0.4, 0.500001);}
+        
+
+    .part_inner {
+    position: relative;
+    flex-direction: column;
+    /*height: 100vh;*/
+    overflow: hidden;
+}
+    .item_one {
+    position: static;
+    height: 100%;
+    border-radius: 0px;
+    width: 100%;
+   
+    padding: 45px 0px;
+}
+.part_2 {
+    width: 100%;
+    position: static;
+     border-radius: 0px;
+}
+.bgbert1, .bgbert{
+    display: none;
+}
+.part_inn_1 {
+    width: 100%;
+    height: 100%;
+    border-radius:0;
+}
+.part_inn_2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+}
+.partbertls {
+    width: 100%;
+    opacity: 1;
+    transform: translateY(0px);
+}
+.part_inn_2 p.box1 {
+    padding: 0px 12px;
+}
+.part_inn_2 .h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.part_logo {
+    padding: 0;
+    width: 86%;
+    margin: auto;
+    margin-top: 20px;
+}
+.about_growth {
+    padding: 0px 15px;
+}
+.part_logo1 {
+    width: 50%;
+    margin: 0px;
+    height: 145px;
+    border-bottom: 1px solid #e6e7e9;
+    border-right: 1px solid #e6e7e9;
+    padding: 15px 10px;
+    flex-direction: column;
+}
+.bert-compny-des{background: transparent;color: #fff;padding: 12px 0px 0px;line-height: normal;display: flex;}
+.bert-compny-des .triangle-5{display: none;}
+.plogo2,.plogo4,.plogo6{
+    border-right: unset;
+}
+.plogo7{
+    border-bottom: unset;
+}
+.educationlogo {
+    margin-right: 0;
+}
+.part_logo01 {
+    margin-top: 0px;
+   
+}
+.partbertelsman {
+    width: 100%;
+    opacity: 1;
+    transform: translateY(0px);
+}
+.part_1 {
+    height: auto;
+    padding: 0px;
+    /*height: 100vh;*/
+    position: relative;
+    background-color: #f1f3f7;
+}
+.part_2 {
+    /*position: absolute;*/
+    /*top:0;*/
+    /*left:0;*/
+    /*transform: translateY(100%);*/
+    background: transparent !important;
+    z-index:9;
+    /*height: 100vh;*/
+    margin-top: 24px;
+}
+
+.part_inn_2{
+    justify-content: flex-start;
+    padding: 45px 0;
+    
+    /*border-radius: 12px;*/
+    width: 88%;
+}
+.padb120 {
+    padding-bottom: 45px;
+}
+.part_expen{
+    margin-top: 25px;
+}
+.investment_details {
+    width: auto;
+   
+}
+.investment_data {
+  height: auto;
+    margin-top: -140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+
+/*.investment_data_num_01 {*/
+/*   width: 48%;*/
+/*    height: auto;*/
+/*    background: none;*/
+/*    border-bottom: 2px solid rgb(255 255 255 / 50%);*/
+/*    border-radius: 0;*/
+/*    padding: 12px 0px;*/
+/*}*/
+/*.investment_data_num_01::after{*/
+/*    background: #F26558;*/
+/*}*/
+.investment_data_num_1{width: 100%;height: auto;}
+/*.investment_data_num_02 {*/
+/* width: 48%;*/
+/*    height: auto;*/
+/*    background: none;*/
+/*    border-bottom: 2px solid rgb(255 255 255 / 50%);*/
+/*    border-radius: 0;*/
+/*    padding: 12px 0px;*/
+/*}*/
+/*.investment_data_num_02::after{*/
+/*    background: #00AA6C;*/
+/*}*/
+.investment_data_num_2{width: 100%;height: auto;}
+
+/*.investment_data_num_03 {*/
+/*  width: 48%;*/
+/*    height: auto;*/
+/*    background: none;*/
+/*    border-bottom: 2px solid rgb(255 255 255 / 50%);*/
+/*    border-radius: 0;*/
+/*    padding: 12px 0px;*/
+/*}*/
+/*.investment_data_num_03::after{*/
+/*    background: #F7931D;*/
+/*}*/
+.investment_data_num_3{width: 100%;height: auto;}
+
+.investment_data_num_4{width: 100%;height: auto;}
+.investment{margin: 0px 22px 0px;
+    }
+
+.num_descrip{
+    font-size: 16px;
+}
+
+.investment_data_num::after{content: unset;}
+.investment_data_num_5{width: 100%;height: auto;}
+.investment_data_num{position: relative;left:0;top:0;bottom:0;right:0;}
+.investment_data_num_02{width: 230px;height: 230px;bottom: -100px;
+    top: unset;}
+.investment_data_num_01{width: 230px;height: 230px;bottom: -140px;
+    top: unset;}
+.investment_data_num_06{top: 158px;bottom: unset;width: 100%;height: auto;}
+
+
+.investment_data_num_02::after{transform: rotate(45deg);}
+.investment_data_num_03{top: unset;
+    bottom: -60px;width: 234px;
+        height: 234px;}
+.investment_data_num_04 {width: 230px;height: 230px;bottom: -30px;
+    top: unset;}
+.investment_data_num_05 {width: 230px;height: 230px;}
+
+.number_data {
+    font-size: 45px;
+    line-height: 45px;
+}
+.leftcircle {
+    left: -225px;
+        bottom: unset;
+        top: 28%;
+        width: 300px;
+        height: 300px;
+}
+.rightcircle{
+  right: -225px;
+    bottom: unset;
+    top: 18%;
+    width: 300px;
+        height: 300px;
+}
+.video_playbtn{
+    font-size: 14px;
+}
+.company_emp_outer {
+    padding: 20px;
+}
+.subscribe::before {
+   top: -100px;
+        left: -142px;
+        width: 200px;
+        height: 200px;
+    transform: rotate(321deg);
+}
+.subscribe::after {
+  top: -100px;
+        right: -142px;
+        width: 200px;
+        height: 200px;
+}
+.insightes2 {
+    height: auto;
+    display: none;
+}
+.insights_hd br{
+    display: none;
+}
+
+.yourgrowth{padding-top: 27px;}
+/**/
+
+.portfolio_circle {
+        height: 640px;
+        width: 100%;
+    }
+    .portfolio_circle_1 {
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+    .portfolio_circle_02 {
+    top: 203px;
+    }
+    .portfolio_circle_03 {
+    top: 405px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.fiter_box {width: 100%;}
+.fiter_box_search {width: 100%;}
+.fiter_box_search input {width: 92%;padding-right: 30px;background-position: 95% center;
+    background-size: 16px;}
+.fiter_box_btn {width: 20%;}
+
+    .fiter_box_btn button {
+        width: 75%;
+        justify-content: center;
+        padding: 0px;
+    }
+
+.fiter_box_btn button span{
+   display: none;
+}
+
+    .fiter_box_btn {
+        width: 22%;
+    }
+    .current_investment_data_1 {
+        width: 100%;
+        flex-direction: column;
+        padding:40px 12px;
+    }
+      .investor_data {
+        padding-left: 0px;
+        height: auto;
+        text-align: center;
+        margin-top: 20px;
+        width: 100%;
+        padding-top: 0px;
+        border-top: 2px solid #F0F3F6;
+        border-left: 0;
+    }
+    .investor_img {
+    width: 100%;
+    
+}
+.unicorn_img img{
+    width: 75px;
+}
+   .investorsec_detail {
+        font-size: 15px;
+        justify-content: center;
+        margin-bottom: 8px;
+        line-height: 22px;
+    }
+    .investor_des{
+        margin-top: 5px;
+    }
+    .investor_data .row {
+    height: auto;
+    margin-top: 15px;
+}
+.investor_data .row:nth-child(2){
+    padding-top: 6px;
+    border-top: 2px solid #F0F3F6;
+}
+.investor_data .d-flex{
+    justify-content: center;
+    margin-top: 15px;
+}
+    .investor_data .d-flex .showmore { height: 38px;}
+    .investor_data::after { content: none; }
+    .show_more_investor { margin-top: 25px; }
+    .current_investment_data_0:nth-of-type(2n+3) .logestic::after{ content: none;}
+    .subscribe .h1{ font-size:30px; }
+    /**/
+    .invest_up_hd { width: auto; }
+    .other_investor { max-width: 95%; padding: 0px 12px 0px;margin: auto;}
+    .invet_data_2{margin-top: 24px;}
+    .invet_update {margin-top: 40px;}
+    .review_name {margin-left: 15px;}
+    .review_inv_ic {margin-bottom: 14px;}
+    .invet_mem_review {margin-top: 40px;}
+    .engagement_bii{flex-direction: column-reverse;}
+    .engagement_bii .col-md-7{margin-top: 24px;}
+    .podcast_person { padding: 20px; height: auto; }
+    .podcast_person div img { width: 90px;}
+    .podcast_video { height: 200px;}
+    .hd_1 {margin-top: 40px;}
+    .investor_d .para {
+        font-size: 22px;
+        
+    }
+    .visitwebsite {
+    margin-top: 27px;
+}
+.portfolio_detail_video {
+    height: auto;
+}
+.portfolio_detail_video video{
+    height: calc(100vh - 58px);
+}
+    .investor_details {
+        border-radius: 20px;
+        width: 100%;
+        position: static;
+        padding: 15px;
+    }
+    .portfolio_detail_video .container{
+position: relative;
+        margin-top: -50%;
+        z-index: 1;    }
+        
+        .funding_round_line:after {
+    right: 8px;
+}
+.funding_round_line:before {
+    right: 15px;
+}
+.funding_round span {
+    right: 33px;
+}
+      .funding_round {
+        font-size: 12px;
+        padding-left: 10px;
+        padding-right: 38px;
+    }  
+    .founded_year div{
+        padding-left: 10px;
+    }
+    
+    .founded_year div span {
+        font-size: 12px;
+    }
+    .sectors span {
+   
+    padding: 10px;
+}
+.sectors span h6{
+    font-size: 14px;
+}
+.invester_logo {
+    
+    bottom: unset;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: -32%;
+}
+
+/**/
+
+.footer_link4, .footer_link5{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.footer_link p {width: 100%;text-align: center;}
+.footer_link p br{display: none;}
+.footerlogo1 {margin: 15px 5px 0px 0px;}
+.footerlogo2{margin: 15px 0px 0px 5px;}
+.footer_link4::after {right: unset;width: 100%;height: 2px;bottom: 0px;}
+.footer-logo{text-align: center;}
+.footer_head{text-align: center;margin-top: 32px;}
+.footer_head span{display: block;}
+.footer span br{display: none;}
+.footer br{display: none;}
+.social_media_icons {
+    margin-top: 32px;
+    text-align: center;
+}
+
+.footer_contact, .footer_contact2{
+    width: 50%;
+    text-align: center;
+}
+    .ftrline .row::after {
+        left: 12px;
+        top: -35px;
+        width: 93%;
+    }
+    .bailinks h5{
+        padding-right: 15px;
+    }
+    .footer_link {
+        padding: 20px 0px 20px;
+        text-align: center;
+    }
+    .footerLink1{
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.subscribe p {padding: 0px;}
+.events_data h5 {height: auto;padding: 18px 0px;}
+.events_data{margin-top: 24px;display: block;}
+.events_data p {
+    
+    margin-bottom: 8px;
+}
+.bad_camp img {
+    height: 360px;
+    object-fit: cover;
+    object-position: top;
+}
+.ftrline::after{
+    content:none;
+}
+.cultivation_sec {
+        padding: 40px 14px;
+    }
+    .builditup_audio {flex-direction: column;padding: 15px;}
+    .builditup_content { padding-left: 0px; margin-top: 14px;}
+    .builditup_content p br{display: none;}
+    .builditup_audio_1 {
+        margin-top: 14px;
+    }
+    .builditup_audio {
+    margin-bottom: 14px;
+}
+.dk-video_1{
+    margin-top: 14px
+}
+.cultivation_sec .row .col-md-3 .row .col-12:nth-child(1),.cultivation_sec .row .col-md-3 .row .col-12:nth-child(2){
+    display: none;
+}
+.portfolio_heading {
+    
+    width: 286px;
+    margin: auto;
+}
+.item_two,.item_one {
+   
+    transition: unset;
+    
+}
+.portfolio_inv_data {
+        width: 90%;
+        
+    }
+    .swiper-container-port .swiper-slide::after{
+        content: none;
+    }
+    
+.portfolio_inv_data p{
+    color: #fff;
+}
+.portfolio_inv_data .date_in{
+        color: #ffffff9e;
+
+}
+.button {
+   
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    
+}
+.india_advisoryslider .row{
+    flex-wrap: nowrap;
+    margin:0;
+}
+.swiperbg1{
+    display: none;
+}
+.ourpeoples{
+    padding-top: 45px;
+}
+.portfolio_inv_data hr {
+    color: #f0f3f68c;
+    border-top: 1px solid;
+}
+.para {
+    margin-bottom: 16px;
+}
+.dk-video video {
+    height: 300px;
+}
+.buildit {
+    width: 208px;
+}
+.cham_pod span {
+    display: block;
+}
+.bad_camp .badminton_champ {
+        padding: 25px;
+    }
+       .extrapad .h1{width: 250px; margin: 0 auto 30px;}
+       /*contact*/
+       .contact-form { width: 100%; margin-top: 25px;}
+.contact_page {padding-top: 115px;}
+.contact_page .h1 { margin-bottom: 20px;}
+#contactbtn{height: 44px;}
+.contact_page .ctop {margin-top: 45px;}
+.address_1 {padding: 20px 0px;}
+.address_2::before {left: 0;width: 100%;height: 1px;}
+.address_2::after {
+        right: 0;
+        width: 100%;
+        height: 1px;
+        bottom: 0;
+        top: unset;
+    }
+    .address_1 h5, .address_1 p {
+        width: 262px;
+        margin: 0px auto 0.5rem;
+    }
+    /*team*/
+    .team_member .nav-tabs .nav-item .nav-link.active {
+    width: 150px;
+    height: 150px;
+    font-size: 16px;
+    line-height: 20px;
+    }
+    .team_member .nav-tabs .nav-item .nav-link {
+    width: 120px;
+    height: 120px;
+    }
+    .team_member .nav-tabs .advtem {
+    transform: translateX(8px);
+}
+.team_member .nav-tabs .indvtC {
+    transform: translateX(-8px);
+}
+.team_member .nav-tabs {
+    height: 150px;
+}
+.team_member {
+    margin-top: 30px;
+}
+.team_mem_data {
+    margin-top: 37px;
+}
+.team_mem_data .row .col-md-4:nth-child(3n+2) {
+    top: 0px;
+}
+
+.team_mem_data .row .col-md-4 {margin-bottom: 22px;}
+.team_mem_data .row .col-md-4:last-child{margin-bottom: 0px;}
+.team_main {padding-bottom: 23px;}
+.extrapad {padding-top: 112px;}
+.team-detail-main .container {max-width: 95%;}
+.team-detail-main .col-md-8 {padding-left: 14px;}
+.tm_btm {padding-bottom: 35px;}
+.team-detail-main::before {height: 866px;}
+.team_mem_more p {text-align: center;font-size: 20px;}
+.former_work {margin-top: 35px;text-align: center;}
+.tm_top {padding-top: 32px;}
+.team_mem_des {margin-top: 22px;}
+.education_qual {margin: 20px auto 0;max-width: 278px;}
+.teamMemSlider .teamdata_2 {margin-top: 20px;}
+.padt120 {padding-top: 45px;}
+    /**/
+    .tmimg {
+    position: static;
+    }
+    .team_outer_img {
+        height: 100%;
+        width: 100%;
+        position: static !important;
+        padding: 45px 0px;
+    }
+    .team_m_img {
+    position: relative;
+        top: 0;
+    padding: 0;
+}
+.team_mem_details{
+    text-align: center;
+}
+.team_mem_name {
+    font-size: 24px;
+}
+.team_mem_sub {
+    font-size: 16px;
+}
+.team_mem_des::after {
+    
+    right: 10px;
+    top: -19px;
+}
+.extrapad2 .padt120{
+    padding-top: 40px;
+}
+
+.extrapad .h1 br{
+    display: none;
+}
+
+.ourstory_numbers {
+        width: 100%;
+        height: 744px;
+        margin: 45px auto;
+    }
+    .ourstroy_n_1 {
+    top: 0;
+    left: 0px;
+    right: 0;
+    margin: auto;
+}
+    .ourstroy_n_2 {
+        left: 0;
+        right: 0;
+        top: 180px;
+        margin: auto;
+    }
+    .ourstroy_n_3 {
+        top: 359px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .ourstroy_n_4 {
+    top: 539px;
+    right: 0px;
+    left: 0;
+    margin: auto;
+}
+.ourstory_dropdown .accordion-button {
+        padding: 18px 0;
+        font-size: 18px;
+    }
+    .ourstyimg {
+    width: 40px;
+    height: 40px;
+}
+ .ourstroy_video video {
+        height: 280px;
+    }
+    .our_story_partners_inner {
+    width: 50%;
+    }
+    .our_story_partners_inner:nth-child(2), .our_story_partners_inner:nth-child(6){
+        border-right: 0;
+    }
+    .our_story_partners_inner:nth-child(7) {
+    border-right: 1px solid #00000047;
+}
+.ourstoryparttext{
+    padding: 10px;
+}
+.our_story_partners_inner {
+        height: 135px;
+    }
+    .ourstory_body .para br{
+        display: none;
+    }
+    .domainexpertsImg img {
+        height: 250px;
+    }
+    .ourstory_body {
+        padding: 45px 0px;
+    }
+    .globalnetworkimg {
+    width: 280px;
+    margin: 45px auto 0px;
+    padding: 10px;
+}
+.globalnetworkimg .globalmap {
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.pos_inner img {
+  width: 84px;
+        object-fit: contain;
+}
+.pos_inner {
+    width: 100px;
+        height: 40px;
+}
+.pos_usa {
+    top: 46px;
+        left: -19px;}
+    .pos_data {
+    
+    height: 67px;
+}
+.pos_usa .hover_pos {
+    top: unset;
+    bottom: 0;
+    width: 36px;
+    height: 19px;
+    left: 12px;
+}
+.pos_brazil {
+   top: 142px;
+        left: 32px;
+}
+.pos_brazil .hover_pos {
+    width: 24px;
+    height: 20px;
+}
+.pos_euro {
+   top: 35px;
+        left: 89px;
+}
+.pos_euro .hover_pos{
+    width: 24px;
+    height: 18px;
+}
+.pos_india {
+   top: 114px;
+        left: 138px;
+}
+.pos_india .hover_pos{
+    width: 15px;
+    height: 19px;
+}
+.pos_china {
+        top: 93px;
+        width: 102px;
+        right: -26px;
+        height: 40px;
+    }
+.pos_china .hover_pos {
+        margin: 0;
+        width: 18px;
+        top: 10px;
+        left: 6px;
+        height: 22px;
+    }
+        .pos_china .pos_inner {
+        width: 73px;
+    }
+     .pos_china .pos_inner img {
+        width: 53px;
+     }
+
+.blogLatest{
+    margin-top: 35px;
+}
+.blogLatest .row{
+    flex-direction: column-reverse;
+}
+.latestbloglist{
+    height: auto;
+}
+.latestblog_img{
+    height: 200px;
+}
+.latestblog_des{
+    margin-top: 20px;
+}
+.bloglistdd .knowmore {
+        margin-top: 16px;
+    }
+    .bloglistData2 .col-md-6 {
+    margin-bottom: 24px;
+}
+.bloglistData2 .col-md-6:nth-last-child(2) {
+    margin-bottom: 24px;
+}
+.blogaside{
+    margin-top: 30px;
+}
+.blogbanner::after {
+   
+    right: -603px;
+    top: -566px;
+}
+.blogbanner::before {
+        top: -553px;
+        left: -490px;
+    }
+    .bloglistPara p {
+        margin-bottom: 18px;
+    }
+    .bloglistPara {
+        padding-right: 0px;
+    }
+    .commentpersonImg {
+       
+        height: 48px;
+    }
+    .blogaside-main {
+    position: static;
+   
+    margin-top: 45px;
+}
+.blogaside {
+        margin-top: 20px;
+    }
+    .contrary {
+    
+    flex-direction: column;
+}
+.contrary a:first-child {
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+#js-next1 {
+    margin-right: 0;
+}
+.blognextprev {
+   
+    margin: 24px 0px 20px;
+    
+}
+.writeforuse {
+        background-size: 160px;
+        background-position: right bottom;
+    }
+    .writeforblog .h1 {
+    font-size: 24px;
+    
+}
+.writeforblog .modal-body p{
+    margin-top: 8px;
+}
+.writeforblog #contactbtn {
+    
+    width: 112px;
+}
+.teamMemSlider .swiper-wrapper .swiper-slide:nth-child(2n+2) {
+    margin-top: 30px;
+}
+
+    .footer_link a{
+        font-size: 12px;
+    }
+    .bii_map iframe {
+    height: 300px;
+}
+
+/**/
+    
+    
+.events_img { height: 240px;border-radius: 15px 15px 0px 0px;}
+.events_details .row .col-lg-3 {
+    padding-left: 12px;
+}
+.events_details .row .col-lg-9 {
+    padding-right: 12px;
+}
+.events_desc {
+        height: auto;
+        border: 0.5px solid #ACB8BF;
+        border-top: 0;
+        border-radius: 0px 0px 15px 15px;
+    }
+    .events_desc {
+        padding: 20px;
+    }
+        .events_desc .knowmore {
+        margin-top: 12px;
+    }
+    .eventssubhd{
+        margin-bottom: 13px;
+    }
+    .events_images img {
+        height: auto;
+    }
+    .events_descp {
+        padding: 20px;
+        height: auto;
+    }
+    .events_images img{height: 240px;}
+    .events_details2 .row{
+        flex-direction:column-reverse;
+    }
+    .events_details2 .row .col-lg-9 {
+    padding-left: 12px;
+}
+.events_details2 .events_img {
+    border-radius: 15px 15px 0px 0px;
+}
+.events_details2 .events_desc {
+    border: 0.5px solid #ACB8BF;
+    border-top: 0;
+    border-radius: 0px 0px 15px 15px;
+}
+.events_details2 .row .col-lg-3 {
+    padding-right: 12px;
+}
+.eventsbanner {
+    width: 100%;
+}
+.event-mainlanding img{
+    height: 100%;
+    object-fit: cover;
+}
+.event-mainlanding {
+        width: 230px;
+        height: 170px;
+        margin: 120px auto 0px;
+    }
+    .bcc-event {
+        width: 85px;
+        height: 85px;
+        left: 19px;
+        top: -112px;
+    }
+    .BertelsmannIndiaSummit2-event {
+        width: 79px;
+        height: 84px;
+        right: 30px;
+        top: -96px;
+    }
+    .eventsbanner_main {
+        padding-bottom: 110px;
+    }
+    .techsparks-event {
+        left: 23px;
+        top: 185px;
+        width: 85px;
+        height: 85px;
+    }
+    .VCMeetsBertelsmann2-event {
+        width: 90px;
+        height: 90px;
+        right: 22px;
+        top: 189px;
+    }
+    .eventmainbanner{
+        padding-bottom: 40px;
+    }
+
+/**/
+.edbanner_video, .edbanner_video video{
+    height: 380px;
+}
+.eventspointer,.eventspointer2 {
+   
+    padding: 45px 0px 0px 0px;
+}
+.eventspointer p {
+    margin: 24px 0px 0px 0px;
+}
+.eventscamp {
+    margin-top: 23px;
+}
+.eventspasteditions .ourstroy_n {
+    width: 180px;
+    height: 180px;
+}
+.eventspasteditions .ourstroy_n_2 {
+  left: 0;
+   top: 150px;    
+}
+.eventspasteditions .ourstroy_n_3 {
+    left: 0;
+    top: 298px;
+}
+.eventspasteditions .ourstroy_n_4 {
+        top: 448px;
+}
+.eventspasteditions{
+    height: 630px;
+    margin: 34px auto 45px;
+}
+.pastedition_des br{
+    display: none;
+}
+.pasteditionsmain .dk-video_0, .pasteditionsmain .dk-video_0 video,.smashmedia .dk-video_0 {
+    height: 280px;
+}
+.pastedition_des {
+    font-size: 16px;
+    padding: 16px 0px;
+    margin-bottom: 24px;
+}
+.smashmedia .h1 br{
+    display: none;
+}
+
+.mediaco {
+   
+    height: 280px;
+    
+}
+.media_cc .col-12:nth-child(1){
+    margin-top: 24px;
+}
+
+.mediaco_cont{
+    flex-direction: column;
+    padding: 0px 14px;
+    align-items: flex-start;
+}
+.mediaco_cont h5{
+    font-size: 14px;
+    width: auto;
+}
+.mediaco_cont .knowmore {
+    color: #fff;
+    margin-top: 13px;
+    font-size: 12px;
+}
+.testmoImg {
+   
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 30px;
+}
+.smashmedia .testides p{
+    text-align: center;
+}
+.smashmedia .review_inv {
+    margin-top: 26px;
+    justify-content: center;
+}
+.smashmedia .review_name {
+    margin-left: 20px;
+}
+#watchfull {
+    right: 22px;
+    bottom: 22px;
+    font-size: 12px;
+}
+.newsletterform .subscribe_form {
+    width: 100%;
+}
+.subscribebii .eventspointer{
+    margin-top: 24px;
+}
+.subscribebii .eventspointer p {
+        margin: 12px 0px 0px 0px;
+    }
+    .subscribebii .eventspointer4 {
+        padding: 0px;
+    }
+    .subscribebii .eventspointer5 {
+        padding: 0px;
+    }
+    .newsletterdata .row .col-md-4:nth-child(1),.newsletterdata .row .col-md-4:nth-child(2){
+        margin-bottom: 24px;
+    }
+    .newsletterdata video{height: 280px;object-fit: cover;}
+    .media_tab .row .col-md-4 {
+        margin-bottom: 24px;
+    }
+   .media_tab .row .col-md-4:nth-last-child(2), .media_tab .row .col-md-4:nth-last-child(3) {
+    margin-bottom: 24px;
+}
+
+/**/
+
+.podcastbanner {
+   
+    margin-top: 40px;
+}
+.poadcast_labs p{
+    padding: 0px 20px;
+}
+.podComing h5 {
+       font-size: 26px;
+        width: 204px;
+       
+    }
+    .podComing img{
+        height: 380px;
+    object-fit: cover;
+    }
+           .podComing .comingsoon_outer {
+        width: 204px;
+    }
+    .podComing h5 sup {
+        top: -12px;
+        font-size: 14px;
+    }
+    .podwave h5 {
+        font-size: 30px;
+    }
+    .podcastlibrary-hd {
+    width: 100%;
+    padding: 0px 20px;
+}
+.suscribe-social {
+        width: 100%;
+        justify-content: center;
+    }
+    .sus-social{
+        padding: 14px;
+        width: 80px;
+    height: 80px;
+    margin:0 6px;
+    }
+    .sus-social img{max-width: 100%;}
+    .subhd{margin-bottom: 35px;}
+    
+    .podcast-season12-inner {
+        width: 100%;
+        padding:25px 20px;
+    }
+    .lastestpodcast{
+        flex-direction: column;
+    }
+    .latestpodcastImg {
+    width: 100%;
+    height: 200px;
+    z-index:1;
+}
+.latestpodcastCont{
+    width: 100%;
+    /*overflow: hidden;*/
+    padding: 20px 22px;
+}
+.pod-p-ig{
+    position: absolute;
+    top: -65px;
+    z-index: 2;
+}
+    .newpodcast {
+        right: -52px;
+        top: 16px;
+        font-size: 12px;
+    }
+    .pod-audio {
+   
+    margin-top: 20px;
+}
+.pod-p-ig img{
+    width: 50px;
+    height: 50px;
+}
+.pod-audio .audioplayer_builditup{
+    margin-left: 0px;
+}
+.latestpodcastSocial {
+    
+    justify-content: flex-start;
+    margin: 14px 0 0;
+}
+.latestpodcastSocial a{
+    margin-left:0;
+    margin-right:12px;
+}
+.podcastseries {
+        padding-top: 45px;
+    }
+    .podcast-season12-inner .latestpodcastCont {
+        padding: 20px 0px 0px;
+        height: auto;
+    }
+    .podcast-season12-inner .latestpodcastImg {
+        height: 200px;
+    }
+   .podcast-season12-inner .pod-p-ig{
+        left: 20px;
+    }
+    .showmorepodcast {
+        padding-top: 35px;
+    }
+    .podcast-season12-outer {
+    margin-top: 25px;
+    
+}
+.podcastseries .nav-tabs .nav-item {
+    margin: 0px 10px;
+}
+.podcast-video-series .swiper-container.podcastslider {
+        height: 320px;
+    }
+    .podcastprev-video {
+    
+    height: 320px;
+}
+.podcast-video-series .swiper-container.slider-thumbnail {
+        bottom: 20px;
+        padding: 0px 20px;
+    }
+    .podthbimg img {
+    width: 40px;
+    height: 40px;
+}
+.podthmtxt p{
+    display: none;
+}
+.podthmtxt {
+    margin-left: 0;
+}
+.podcastRewbtn{
+    justify-content: space-between;
+}
+.podcastrewbtn{
+    left: -10px;
+}
+.podright {
+    left: 0px;
+}
+.podcastReview{
+    margin-top: 30px;
+}
+.podcast-clogo {
+   
+    margin-top: 26px;
+}
+
+/*press kit*/
+.crossbtn{
+    right: unset;
+    /*top: -32px;*/
+}
+.mediapopup-form.contact-form {
+    margin: 10px;
+    
+}
+.media-aside {
+    margin-top: 24px;
+}
+.show_more_btn_n {
+    margin-top: 40px;
+}
+.press_tab .col-lg-4 {
+    width: 100%;
+}
+.press_tab .row {
+    gap: unset;
+}
+.press_release_data span{
+    padding-bottom:0px;
+}
+.swiperbg2 {
+    display: block;
+}
+#podcastmodal .modal-dialog{
+    width: 100vw;
+}
+#podcastmodal.modal .modal-dialog {
+    right: -100vw;
+  
+}
+.podcastreadmore{
+    height: 350px;
+    overflow-y: scroll;
+    margin: 40px 20px 0px;
+    padding:0px 15px 0px 0px;
+   display: block;
+}
+#podcastmodal .modal-content{
+    justify-content: center;
+}
+
+.podcastreadmore::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+.podcastreadmore::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+.podcastreadmore::-webkit-scrollbar-thumb
+{
+	background-color: #F26558;
+}
+.crossbtn2{
+    top: 20px;
+    left: 20px;
+}
+.seaonpodcastSocialmedia{
+   padding-left: 0px;
+   align-items: normal;
+}
+.seaonpodcastSocialmedia span {
+    margin-top: 14px;
+}
+.presskit {
+          z-index: 2;
+        font-size: 13px;
+        padding: 6px 24px;
+       margin-top: 0px;
+}
+.mediapopup-form #contactbtn {
+    
+    width: 120px;
+}
+.investor_img {
+        padding: 0px 60px;
+    }
+    .about-style {
+    margin-bottom: 14px;
+}
+.about-style a{
+    font-size: 14px;
+}
+.communitytop{
+    margin-top: 15px;
+}
+.pro-cont {
+        padding-top: 112px;
+    }
+    
+
+.impressionsbtn {
+        margin-top: 15px;
+    }
+    .ourspeakerName{
+        border-radius: 14px;
+    }
+    .ourspeakerbtn {
+         margin-top: 15px; 
+    }
+    .ourinvestment-education .ourstorypartlogo {
+    padding: 20px;
+}
+.ourstoryparttext p{
+    font-size: 14px;
+}
+.pr_show, .news_show {
+        margin-top: 15px;
+    }
+    .timetable {
+   max-width: 89%;
+    
+}
+.timetable-scedule {
+        width: 100%;
+        text-align: center;
+    }
+    .timetable-speaker-0 {
+    width: 100%;
+}
+.timetabledata{
+    flex-direction: column;
+}
+.timetable-speaker{
+    min-width: 100%;
+    align-items: flex-start;
+    margin-top: 12px;
+}
+.timetable-speakerinfo{
+    max-width: 100%;
+}
+.timetable-subhd {
+    font-size: 22px;
+    line-height: 26px;
+}
+.timetable-subdes,.timetable-time{
+    margin-top: 8px;
+    display: block;
+}
+.timetable-subdes {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.extrapad .poddetail-h1 {height: auto;padding: 15px;}
+.poddetails-para {margin-top: 28px;}
+.builditup_image img{width: 100%;
+    height: auto;
+    border-radius: 17px;}
+    
+    .builditup_content p {width: auto;}
+    .newsletterteam {padding-bottom: 0px;}
+    .badminton_champ h5 br{display: none;}
+.footer_link4 p{width: 80%;margin: auto;}
+}
+
+
+@-webkit-keyframes width {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+@media (max-width: 390px){
+ .ashwindameera{height: 302px;}
+    .abhayhanjura{height: 286px;}
+    .ambareeshmurthy{height: 286px;}
+    .homediv{height: 1820px;}
+    
+}
+
+@media (max-width: 376px){
+   
+   .insights_details_img {
+    height: 309px;
+}
+.ashwindameera {height: 320px;}
+.abhayhanjura{height: 320px;}
+.ambareeshmurthy{height: 320px;}
+.homediv{height: 1900px;}
+
+
+
+.india_advisory_team .row{
+    margin: 0px;
+}
+
+.team-detail-main::before {
+        height: 831px;
+    }
+}
+@media (max-width: 360px){
+    .team-detail-main::before {
+        height: 812px;
+    }
+}
+
+@media (max-width: 321px){
+
+.number_data {
+    font-size: 22px;
+    line-height: 22px;
+}
+   .insights_details_img {
+    height: 260px;
+}
+   
+    .banner_outer{padding-top: 86px;}
+   
+    .eruditusvideo{transform: translate3d(-75.9997px, -49.9998px, 0px) scale(0.5, 0.500001);margin: 0px 0px 7px 0px;width: 100%;}
+    .company_emp_outer .mb-0 {width: 100%;}
+    /*.ashwindameera{transform: translate3d(132.2471px, -167.7378px, 0px) scale(0.5, 0.500001);margin:7px 0px;}*/
+    .licious{transform: translate3d(80.9984px, -70.1099px, 0px) scale(0.5019, 0.501871); margin: 7px 0px; order: 3;width: 100%;}
+ 
+.abhayhanjura{
+    margin: 7px 0px;
+    order:4;
+}
+/*.abhayhanjura{transform: translate3d(-37.0003px, -240px, 0px) scale(0.5038, 0.503791);}*/
+.banner_inner2 {
+    margin-top: 0;
+}
+
+.pepperfry{
+    margin: 7px 0px;
+}
+.lendingkart{
+     margin: 7px 0px;
+}
+.ambareeshmurthy {
+    margin: 7px 0px;
+}
+.banner_inner_1{
+    width: 100%;
+    height: auto;
+}
+
+
+.homediv{height: 1830px;}
+.leftcircle {left: -152%;}
+.rightcircle {right: -150%;}
+.swiper-button-prev, .swiper-button-next {width: 28px;height: 28px;}
+
+
+}
+
+@media (max-width: 281px){
+     
+   .ashwindameera{height: 325px;}
+    .abhayhanjura{height: 325px;}
+    .ambareeshmurthy{height: 325px;}
+    .homediv{height: 1800px;}
+}
+
