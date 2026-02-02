@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="406.149" viewBox="0 0 1366 406.149">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_667" data-name="Rectangle 667" width="1366" height="406.149" transform="translate(0 866)" fill="#002455"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_84" data-name="Mask Group 84" transform="translate(0 -866)" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <g id="Group_892" data-name="Group 892" transform="matrix(-0.875, 0.485, -0.485, -0.875, 2660.604, 779.275)">
+      <g id="Group_858" data-name="Group 858" transform="translate(652.71 27.355)">
+        <g id="Group_858-2" data-name="Group 858" transform="translate(0 0)">
+          <path id="Path_4039" data-name="Path 4039" d="M1591.177,703.182a415.99,415.99,0,0,0-383.6-254.272,419.733,419.733,0,0,0-64.5,4.95l1.891,13.926a402.617,402.617,0,0,1,62.6-4.868c221.843,0,402.315,180.484,402.315,402.327s-180.472,402.315-402.315,402.315S805.248,1087.088,805.248,865.245A399.781,399.781,0,0,1,839.732,702.33l-1.518-.56-6.339-16.156q-4.15,8.668-7.915,17.569a416.329,416.329,0,1,0,767.217,0Z" transform="translate(-791.24 -448.91)" fill="#96acc9"/>
+        </g>
+        <path id="Path_4048" data-name="Path 4048" d="M1139.145,467.076C1002.471,488.521,888.41,579.013,833.906,701.62l-1.518-.56L826.05,684.9a416.156,416.156,0,0,1,311.2-231.754Z" transform="translate(-785.414 -448.2)" fill="#c1d3e8"/>
+      </g>
+    </g>
+    <g id="Group_893" data-name="Group 893" transform="matrix(-0.545, -0.839, 0.839, -0.545, 314.635, 1736.72)">
+      <g id="Group_858-3" data-name="Group 858" transform="translate(652.71 27.355)">
+        <g id="Group_858-4" data-name="Group 858" transform="translate(0 0)">
+          <path id="Path_4039-2" data-name="Path 4039" d="M1591.177,703.182a415.99,415.99,0,0,0-383.6-254.272,419.733,419.733,0,0,0-64.5,4.95l1.891,13.926a402.617,402.617,0,0,1,62.6-4.868c221.843,0,402.315,180.484,402.315,402.327s-180.472,402.315-402.315,402.315S805.248,1087.088,805.248,865.245A399.781,399.781,0,0,1,839.732,702.33l-1.518-.56-6.339-16.156q-4.15,8.668-7.915,17.569a416.329,416.329,0,1,0,767.217,0Z" transform="translate(-791.24 -448.91)" fill="#96acc9"/>
+        </g>
+        <path id="Path_4048-2" data-name="Path 4048" d="M1139.145,467.076C1002.471,488.521,888.41,579.013,833.906,701.62l-1.518-.56L826.05,684.9a416.156,416.156,0,0,1,311.2-231.754Z" transform="translate(-785.414 -448.2)" fill="#f26558"/>
+      </g>
+    </g>
+  </g>
+</svg>
